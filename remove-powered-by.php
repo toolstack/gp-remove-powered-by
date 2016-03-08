@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: GlotPress Remove Powered By
+Plugin Name: GP Remove Powered By
 Plugin URI: http://glot-o-matic.com/gp-remove-powered-by
 Description: Remove the "Powered by" line in the footer of GlotPress.
 Version: 0.5
-Author: gregross
+Author: GregRoss
 Author URI: http://toolstack.com
 Tags: glotpress, glotpress plugin 
 License: GPLv2
